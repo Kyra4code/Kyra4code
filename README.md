@@ -9,7 +9,7 @@
 - 🌍 Brasileiro e resiliente.
 - 💻 Desenvolvedor focado em aprender e evoluir sempre.
 - 🌐 Amante de linguagens: tanto de código quanto humanas.
-- 💬 Falo sobre programação, cultura, filosofia e idiomas.
+- 💬 Falo sobre programação, cultura, filosofia, física matemática e idiomas.
 
 ---
 
