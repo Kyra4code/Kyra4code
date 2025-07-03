@@ -32,7 +32,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kyra4code&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyra4code&layout=donut-vertical&theme=dracula&count_private=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyra4code&layout=donut-vertical
+&theme=dracula&count_private=true" alt="Top Langs" />
 </div>
 
 ---
@@ -44,7 +45,7 @@
 
 ### 📫 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucarioecharmito@gmail.com)
 
 ---
 
