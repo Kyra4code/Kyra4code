@@ -51,7 +51,7 @@
 
 ### ✨ Curiosidades
 - Escuto músicas em japonês, coreano e alemão.
-- Sou niilista, mas ainda assim acho beleza na tranquilidade e na bondade.
+- Acho beleza na tranquilidade, na bondade e justiça.
 - Minha motivação? Viver uma vida tranquila e feliz.
 
 ---
